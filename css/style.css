@@ -4,17 +4,22 @@ body{
     justify-content: center;
     align-items: center;
 }
-div {
-    background-color: grey;
-    padding: 20px;
-}
 #testo1, #testo2 {
     font-size: 30px;
+    background-color: dimgrey;
 }
 
 #testo1{
     color: blue;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+
 }
 #testo2{
     color: darkred;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
